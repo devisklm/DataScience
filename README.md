@@ -5,6 +5,7 @@ features and their labels as fraud or No fraud to detect if new transactions mad
 customer are fraud are not.
 
 Input :- type,amount,Org_oldbalance,Dest_newbalance.
+
 Output :- Fraud or NoFraud
 
 Introduction:-
