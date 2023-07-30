@@ -1,17 +1,19 @@
 # Data Science With Python
 # Online Payment Fraud Detection System
-Project Aim :-
- The project aims to build a Online Payment Fraud Detection Model. I use the
+Project Aim :-The project aims to build a Online Payment Fraud Detection Model. I use the
 features and their labels as fraud or No fraud to detect if new transactions made by the 
 customer are fraud are not.
+
 Input :- type,amount,Org_oldbalance,Dest_newbalance.
 Output :- Fraud or NoFraud
+
 Introduction:-
  Online payment systems has helped a lot in the ease of payments. But, at the same 
 time, it increased in payment frauds. Online payment frauds can happen with anyone using 
 any payment system, especially while making payments using a credit card. That is why 
 detecting online payment fraud is very important for credit card companies to ensure that the 
 customers are not getting charged for the products and services they never paid.
+
 About the Dataset:-
 For this task, I collected a dataset from Kaggle, which contains information about 
 fraudulent transactions which can be used to detect fraud in online payments. Below are all 
